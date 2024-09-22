@@ -8,14 +8,11 @@ Next.js
 TypeScript
 Tailwind CSS
 
-
 *🔋 Features....
 
 👉 Home Page: Showcases a visually appealing display of cars fetched from a third-party API, providing a captivating introduction to the diverse range of vehicles available.
 
 👉 Exploration and Filtering: Explore a wide variety of cars from around the world, utilizing a search and filter system based on criteria such as model, manufacturer, year, fuel type, and make.
-
-👉 Transition to Server-Side Rendering: A seamless transition from client-side rendering to server-side rendering, enhancing performance and providing a smoother browsing experience.
 
 👉 Pagination: For easy navigation through a large dataset of cars, allowing users to explore multiple pages effortlessly.
 
